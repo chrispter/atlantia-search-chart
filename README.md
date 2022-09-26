@@ -1,4 +1,4 @@
-# 📻 Atlantia Search Test
+# 📊 Atlantia Search Test
 
 ### Test Práctico 
 Frontend React JS
@@ -7,19 +7,43 @@ Frontend React JS
 
 💾 Clone the repository
 
-```git clone ```
+```bash
+git clone https://github.com/chrispter/atlantia-search-chart.git
+```
 
 🧶 Install dependencies
 
-```yarn```
+```bash
+yarn
+```
+or 
+
+```bash
+npm install
+```
 
 👷 Generate the assets in development mode
 
-```yarn dev```
+```bash
+yarn dev
+```
+or
+
+```bash
+npm run dev
+```
 
 🏛️ Generate the assets in production mode
 
-```yarn build```
+```bash
+yarn build
+```
+
+or
+
+```bash
+npm run build
+```
 
 ## 📚 Doc Dependencies
 Apexcharts
