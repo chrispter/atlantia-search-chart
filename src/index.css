@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 1.6rem;
+  font-family: 'Hind', sans-serif;
+  background-color: var(--gris-claro);
+  background-color: #f0f6ff;
+}
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.content {
+  width: 100%;
+  max-width: 1450px;
+  height: auto;
+  margin: auto;
+  padding: 2rem;
+}
+
+.content-chart {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1440px;
+  margin-bottom: 4rem;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%;
+  color: #000000;
+  margin: 1rem 0;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 20px;
+}
